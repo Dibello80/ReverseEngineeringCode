@@ -30,12 +30,12 @@ as someone who wants to safely log in to "X", I want to know my personal details
 
 Clone this repository into your local storage and follow these steps;
 
-1)create a mysql db called "passport_demo"
-2)go into the config file, open config.js and insert your personal data ie username, password etc
-3)open terminal in current repo and run "npm i" to install all node packages
-4)In the Terminal run "node server.js" and you will successfully connect to server
-5)Open browser and put "http://localhost:8080" in search bar
-6)enjoy the app
+1)create a mysql db called "passport_demo" <br>
+2)go into the config file, open config.js and insert your personal data ie username, password etc <br>
+3)open terminal in current repo and run "npm i" to install all node packages <br>
+4)In the Terminal run "node server.js" and you will successfully connect to server <br>
+5)Open browser and put "http://localhost:8080" in search bar <br>
+6)enjoy the app <br>
 
 
 
