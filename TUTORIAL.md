@@ -15,13 +15,13 @@ as someone who wants to safely log in to "X", I want to know my personal details
 
 ## TECH USED 
 
--BCRYPTJS
--EXPRESS
--EXPRESS-SESSION
--MYSQL2
--PASSPORT
--PASSPORT-LOCAL
--SEQUELIZE
+-BCRYPTJS  <br>
+-EXPRESS  <br>
+-EXPRESS-SESSION <br>
+-MYSQL2 <br>
+-PASSPORT <br>
+-PASSPORT-LOCAL <br>
+-SEQUELIZE <br>
 
 
 
